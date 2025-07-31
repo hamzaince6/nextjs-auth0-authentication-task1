@@ -1,0 +1,14 @@
+# NextAuth Configuration
+NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_SECRET=a61c3ebf0a3c7a529e9aaf0b725ed58ba42f764ecf823a4176085aca9a98f06e
+
+# Auth0 Configuration
+AUTH0_SECRET=9cb15e9f2ad12d79c80e019e77cf4a98671d288941230b4802199d1a9ffff246
+AUTH0_BASE_URL=http://localhost:3000
+AUTH0_ISSUER_BASE_URL=https://dev-nr2y12abwbp4qdwf.us.auth0.com
+AUTH0_CLIENT_ID=y8iYEAslMJWnYs3AmL17zQRdRF9jU4cp
+AUTH0_CLIENT_SECRET=ytUjOQyv8GzWtcGUtJIjdhSqta_UVCH7vU76PGjr3gibwFf1EpNZy7cLWAuYlJ0j
+
+# Development Configuration
+NODE_ENV=development
+ENABLE_AUTH=true
